@@ -3,6 +3,6 @@ pub struct GamePlugin;
 
 impl Plugin for GamePlugin {
     fn build(&self, app: &mut App) {
-        // ToDo: implement Plugin
+        // todo: implement Plugin
     }
 }

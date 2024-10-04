@@ -1,8 +1,8 @@
 [package]
-name = "bevy_game" # ToDo
+name = "bevy_game" # todo
 version = "0.1.0"
 publish = false
-authors = ["cxrvus"] # ToDo: set authors
+authors = ["cxrvus"] # todo: set authors
 edition = "2021"
 exclude = ["dist", "build", "assets", "credits"]
 
